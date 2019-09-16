@@ -1,0 +1,4 @@
+<?php
+requier 'index.html'
+
+?>
